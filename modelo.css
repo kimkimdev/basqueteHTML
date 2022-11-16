@@ -1,0 +1,23 @@
+table,th,tr,td {
+    border: 1px solid black;
+    border-collapse: collapse;   
+    
+      }
+   th{background-color: aquamarine;
+   }
+
+   tr{background-color: white
+
+   }
+   body{
+    background-color: pink;
+   }
+   h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
+table{
+    padding: .7em;
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
